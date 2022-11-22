@@ -3,7 +3,12 @@
 ![GitHub](http://jigsaw.w3.org/css-validator/images/vcss)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?preset=HTML%2C%20SVG%201.1%2C%20MathML%203.0&targetUrl=https%3A%2F%2Fvalidator.nu%2F)
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> O projeto tem como finalidade criar um sistema de organização de tarefas, onde possibilita adicionar, alterar e excluir tarefas.
+> 
+### Autores
+Guilherme Arendt
+Henrico Puchetti
+Rafael Porto
 
 ### Ajustes e melhorias
 
